@@ -30,9 +30,10 @@ This project is an interactive dashboard created using Power BI to analyze Netfl
 
 🚀 How to Use
 
-1. Download the ".pbix" file
-2. Open in Power BI Desktop
-3. Explore the interactive dashboard
+1. Download the ".pbix" file given in the green"Code"button
+2. Click Download Zip
+3. Open in Power BI Desktop
+4. Explore the interactive dashboard
 
 🔗 Project Link
 
