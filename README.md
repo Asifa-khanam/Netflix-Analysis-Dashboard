@@ -30,8 +30,7 @@ This project is an interactive dashboard created using Power BI to analyze Netfl
 📂 Files Included
 
 - Netflix_Dashboard.pbix
-- Dataset file (if included)
-- Screenshots
+- Dataset
 
 🚀 How to Use
 
